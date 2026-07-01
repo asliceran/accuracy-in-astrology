@@ -6,7 +6,7 @@ A statistical analysis investigating whether years of astrological experience pr
 
 - [Python Code](analysis.ipynb)
 - [Project Presentation](presentation.pdf)
-- Dataset: [Clearer Thinking Astrology Challenge](https://docs.google.com/spreadsheets/d/1pYd5_I0V12tvB-ogjcHIfk-1K0_Es1VqiFuqkLSd5o8/edit?usp=sharing)
+- Dataset: [Clearer Thinking Astrology Challenge](Clearer Thinking Astrology Challenge Dataset June 2024  [Open Source _ Public] - main.csv)
 
 ---
 
