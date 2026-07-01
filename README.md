@@ -6,7 +6,7 @@ A statistical analysis investigating whether years of astrological experience pr
 
 - [Python Code](analysis.ipynb)
 - [Project Presentation](presentation.pdf)
-- Dataset: [Clearer Thinking Astrology Challenge](Clearer Thinking Astrology Challenge Dataset June 2024  [Open Source _ Public] - main.csv)
+- Dataset: [Clearer Thinking Astrology Challenge](ClearerThinkingAstrologyChallengeDatasetJune2024OpenSource_Public.csv)
 
 ---
 
@@ -32,7 +32,7 @@ Among astrology believers participating in the Clearer Thinking Astrology Challe
 
 ## Dataset
 
-The dataset used in this analysis can be found [Clearer Thinking Astrology Challenge Dataset](https://docs.google.com/spreadsheets/d/1pYd5_I0V12tvB-ogjcHIfk-1K0_Es1VqiFuqkLSd5o8/edit?usp=sharing) The dataset contains responses from participants who voluntarily completed an online astrology matching challenge. For this analysis, only participants with positive belief scores (> 0) were included.
+The dataset used in this analysis can be found [Clearer Thinking Astrology Challenge Dataset](ClearerThinkingAstrologyChallengeDatasetJune2024OpenSource_Public.csv) The dataset contains responses from participants who voluntarily completed an online astrology matching challenge. For this analysis, only participants with positive belief scores (> 0) were included.
 
 **Variables used:**
 
