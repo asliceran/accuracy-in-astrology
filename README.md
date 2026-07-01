@@ -2,6 +2,12 @@
 
 A statistical analysis investigating whether years of astrological experience predict performance in a blinded natal chart matching challenge using Python, correlation analysis, and linear regression.
 
+## Project Files
+
+- [Python Code](analysis.ipynb)
+- [Project Presentation](presentation.pdf)
+- Dataset: [Clearer Thinking Astrology Challenge](https://docs.google.com/spreadsheets/d/1pYd5_I0V12tvB-ogjcHIfk-1K0_Es1VqiFuqkLSd5o8/edit?usp=sharing)
+
 ---
 
 ## Project Overview
